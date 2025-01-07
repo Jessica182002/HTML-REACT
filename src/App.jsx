@@ -19,7 +19,7 @@ function App() {
     <Impacto/>
     <Soluciones/>
     <Comentarios/>
-    <Fooder/>
+    {/*<Fooder/>*/}
     </>
   )
 }
